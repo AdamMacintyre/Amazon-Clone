@@ -1,0 +1,9 @@
+.hpDescriptionContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.hp__productDetails{
+    border: 2px solid rgb(204, 156, 0);
+}

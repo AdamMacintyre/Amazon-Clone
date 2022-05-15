@@ -1,0 +1,20 @@
+.img__store{
+
+  
+}
+.img__store ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.img__store li{
+    height: auto;
+    width: 125px;
+}
+
+.img__store img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

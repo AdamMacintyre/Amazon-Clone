@@ -1,0 +1,49 @@
+.filterPanel__container{
+    height: 100vh;
+    flex: 0.2;
+    color: var(--dark);
+    padding: 0px 10px;
+    min-width: calc(230px - 0%) ;
+    height: 100vh;
+    background-color: #131921;
+    color: #fff;
+
+  
+    
+}
+
+
+.filter__label{
+    font-size: 19px !important;
+}
+
+
+input{
+    border: none !important;
+    padding: 2px 3px ;
+}
+input:focus-visible{
+    border: none !important;
+    outline: none !important;
+}
+
+.MuiCheckbox-root{
+
+    color: #fff !important;
+
+}
+
+.MuiIconButton-colorSecondary:hover {
+    background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked:hover {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+
+}
+
+.MuiTypography-root.MuiFormControlLabel-label.makeStyles-label-8{
+    font-size: 16px !important;
+}
+
+
